@@ -1,2 +1,2 @@
-# mhome-base
-Desktop application for controlling my smart home
+# MHome Base
+Desktop application for controlling my smart home!
